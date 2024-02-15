@@ -2,6 +2,8 @@
 
 Integrantes: Manuel Pastrana Blazquez y Álvaro Pereda Sánchez.
 
+Nota: 10
+
 Pokemon Turmalina es un FanGame de la famosa saga de videojuegos Pokemon.
 
 El juego pertenecerá al género de los juegos de rol (RPG) y se centra en el entrenamiento y en los combates de Pokémons. El objetivo principal del juego es convertirse en el Campeón del distrito derrotando a los entrenadores de toda la aldea.
@@ -471,8 +473,5 @@ class AtaqueEspecial{
     AtaqueEspecialRandom --|> Mewtwo
     AtaqueEspecialRandom --|> Rapidash
     AtaqueEspecialRandom --|> Snorlax
-
-
-
 
 
