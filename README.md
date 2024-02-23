@@ -2,7 +2,7 @@
 
 Integrantes: Manuel Pastrana Blazquez y Álvaro Pereda Sánchez.
 
-Nota: 10
+Calificación: 10/10
 
 Pokemon Turmalina es un FanGame de la famosa saga de videojuegos Pokemon.
 
